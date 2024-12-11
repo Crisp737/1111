@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../img/cha zhao.png</file>
+        <file>../img/che xiao.png</file>
+        <file>../img/copy.png</file>
+        <file>../img/da kai.png</file>
+        <file>../img/fu zhi.png</file>
+        <file>../img/gong ju lan.png</file>
+        <file>../img/hui fu.png</file>
+        <file>../img/jian qie.png</file>
+        <file>../img/ling cun wei.png</file>
+        <file>../img/new.png</file>
+        <file>../img/nian tie.png</file>
+        <file>../img/quanxuan.png</file>
+        <file>../img/ti huan.png</file>
+        <file>../img/tui chu.png</file>
+        <file>../img/zhuang tai lan.png</file>
+        <file>../img/zi dong huan hang.png</file>
+        <file>../img/zi ti.png</file>
+        <file>../img/bao cun.png</file>
+        <file>../img/xianshi hang hao.png</file>
+    </qresource>
+</RCC>
